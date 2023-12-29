@@ -1,4 +1,5 @@
 /block/
+/result/
 
 *.gem
 *.rbc
