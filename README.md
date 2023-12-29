@@ -1,2 +1,3 @@
 # MaterialErrorBlocksResourcePack
- 全てのブロックがマテリアルエラーになるリソースパック(Java版)
+
+全てのブロックがマテリアルエラーになるリソースパック(Java 版)
