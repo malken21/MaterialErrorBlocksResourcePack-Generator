@@ -1,3 +1,3 @@
-# MaterialErrorBlocksResourcePack
+# MaterialErrorBlocksResourcePack-Generator
 
-全てのブロックがマテリアルエラーになるリソースパック(Java 版)
+全てのブロックがマテリアルエラーになるリソースパック(Java 版)を作るために作ったプログラム
