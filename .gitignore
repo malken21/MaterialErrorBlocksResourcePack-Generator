@@ -1,3 +1,5 @@
+/block/
+
 *.gem
 *.rbc
 /.config
