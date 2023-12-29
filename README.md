@@ -1,0 +1,2 @@
+# MaterialErrorBlocksResourcePack
+ 全てのブロックがマテリアルエラーになるリソースパック(Java版)
